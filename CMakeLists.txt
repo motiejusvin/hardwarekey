@@ -8,8 +8,8 @@ set(CMAKE_CXX_STANDART 17)
 pico_sdk_init()
 
 add_executable(hardware
-    ../src/raspberrypi/hardware.c
-    ../src/PC/software.c
+    ../src/RaspberryPi/main.c
+    ../src/Linux/main.c
     )
 pico_enable_stdio_usb(hardware 1)
 #pico_enable_stdio_uart(hardare 0)
