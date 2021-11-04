@@ -1,5 +1,7 @@
 CMakeLists.txt.user
 CMakeCache.txt
+pico-sdk
+*.swp
 CMakeFiles
 CMakeScripts
 build
