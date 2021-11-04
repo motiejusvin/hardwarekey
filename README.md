@@ -1,6 +1,8 @@
 # HardwareKey
 Hardware key using Raspberry Pi Pico
 
+Longshot goal: To make integrate it to GRUB2
+
 # Getting ready
 
 Clone [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) and put the ```pico-sdk``` folder inside root directory of the repository.
